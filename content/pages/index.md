@@ -5,22 +5,19 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >+
+    content: >
       I am a PhD student in the [Marx Lab](hannahmarx.com) at the University of
       New Mexico, interested in the ecology and evolution of flowering plants in
-      island and alpine systems. Prior to beginning my PhD work in 2021, I was a
-      middle school science teacher in Olympia, WA where I taught 6th grade
-      earth and space science. I earned my M.Ed. and teaching credentials at
-      UMass-Boston through the Boston Teacher Residency in 2019. Before
-      beginning my teaching career, I earned my M.S. in plant sciences at
-      Washington State University in the [Roalson
+      island and alpine systems. Prior to beginning my PhD work in 2021, I
+      earned my M.Ed. and teaching credentials at UMass-Boston through the
+      Boston Teacher Residency in 2019 and taught 6th grade earth and space
+      science in Olympia, WA. Before beginning my teaching career, I earned my
+      M.S. in plant sciences at Washington State University in the [Roalson
       Lab](https://labs.wsu.edu/roalson/) in 2018, where I used high-throughput
       sequencing and species tree analyses to better understand Hawaiian
       *Cyrtandra*. I completed B.A. at the University of Colorado in 2015 where
       I looked into aberrant plant diversity using phylogenetic tools in the
       [Tripp Lab](https://trippreport.com/).
-
-
     actions:
       - label: Contact Me
         url: /contact
