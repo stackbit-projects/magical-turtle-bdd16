@@ -21,7 +21,7 @@ sections:
     actions:
       - label: Kleinkopf CV
         url: /contact
-        style: icon
+        style: button
         new_window: true
       - label: lorem-ipsum
         url: '#'
