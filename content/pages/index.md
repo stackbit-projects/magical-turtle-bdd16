@@ -19,7 +19,7 @@ sections:
       I looked into aberrant plant diversity using phylogenetic tools in the
       [Tripp Lab](https://trippreport.com/).
     actions:
-      - label: Contact Me
+      - label: Kleinkopf CV
         url: /contact
         style: button
   - section_id: recent-posts
